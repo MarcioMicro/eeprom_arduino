@@ -2,6 +2,7 @@
 
 ## Gravador
 
+```
 #define WE 12
 #define OE 11
 
@@ -98,9 +99,11 @@ void setup() {
 void loop() {
   
 }
+```
 
 ## Leitor
 
+```
 #define WE 12
 #define OE 11
 
@@ -129,3 +132,4 @@ void setup() {
 void loop() {
   
 }
+```
